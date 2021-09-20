@@ -1,0 +1,5 @@
+666c61677b6469735f69735f615f666c346767675f68317d
+
+Converts from Hexadecimal to Text
+
+flag{dis_is_a_fl4ggg_h1}
